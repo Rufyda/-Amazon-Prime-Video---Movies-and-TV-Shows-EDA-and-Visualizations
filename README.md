@@ -23,7 +23,18 @@ The main code and analysis are presented in a Jupyter Notebook: **`Amazon Prime 
 ### Dependencies
 To run the analysis, install the following Python libraries:
 ```python
+
 pandas
 numpy
 seaborn
 matplotlib
+```
+# Amazon Prime Video - Movies and TV Shows Visualizations
+
+
+
+![Content Type Distribution](1.png)
+![Content Type Distribution](image/2.png)
+![Content Type Distribution](image/3.png)
+![Content Type Distribution](image/4.png)
+### Thank you .
